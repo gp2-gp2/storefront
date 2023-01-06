@@ -24,3 +24,4 @@
 - `django-admin runserver`
 - `python .\manage.py`
 - `python .\manage.py runserver`
+- `pipenv --venv`
