@@ -54,3 +54,7 @@ To have some mimic version of zsh like terminal that displays the git branches, 
 Extra fonts:
 
 - <https://www.nerdfonts.com/>
+
+## Django Model field reference
+
+- <https://docs.djangoproject.com/en/4.1/ref/models/fields/>
